@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="twitter4j-async-4.0.4.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/darekasan/OneDrive/Documents/MinJTwit/doc/twitter4j-async-4.0.4-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="twitter4j-core-4.0.4.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/darekasan/OneDrive/Documents/MinJTwit/doc/twitter4j-core-4.0.4-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="twitter4j-examples-4.0.4.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/darekasan/OneDrive/Documents/MinJTwit/doc/twitter4j-examples-4.0.4-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="twitter4j-media-support-4.0.4.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/darekasan/OneDrive/Documents/MinJTwit/doc/twitter4j-media-support-4.0.4-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="twitter4j-stream-4.0.4.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/darekasan/OneDrive/Documents/MinJTwit/doc/twitter4j-stream-4.0.4-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="forms-1.3.0.jar" sourcepath="forms-1.3.0-src.zip"/>
+	<classpathentry kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
